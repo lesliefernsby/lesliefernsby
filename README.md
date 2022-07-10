@@ -1,22 +1,28 @@
-### Hi there 👋
+### Welcome to my GitHub
 
-<!--
-**lesliefernsby/lesliefernsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h2>Full-Stack Software Developer</h2>
+```javascript
+export const Leslie: TSoftwareDeveloper = {
+  fullName: 'Leslie Fernsby',
+  jobPosition: 'Full Stack Software Developer',
+  email: 'lesliefernsby@gmail.com',
+  telegram: '@LeslieFernsby',
+  location: 'Toronto, Ontario, Canada',
+  techStack: [
+    'javaScript',
+    'react.js',
+    'node.js',
+    'expess.js',
+    'typeScript',
+    'next.js',
+    'postgres',
+    'mysql',
+    'redis',
+    'sequelize orm',
+    'java spring hibernate etc (but I would better consider js/ts/react jobs)',
+    'type your technology here - I am a quick learner',
+  ],
+};
+```
 
 
 
